@@ -11,6 +11,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+//go:embed data/advices.json
 var advicesFS embed.FS
 
 type Advice struct {
@@ -21,10 +22,23 @@ type Advice struct {
 var advices []Advice
 
 func loadAdvices() {
-	b, _ := advicesFS.ReadFile("data/advices.json")
-	if err := json.Unmarshal(b, &advices); err != nil {
-		log.Fatal(err)
+	// 1) Dosyayı oku
+	data, err := advicesFS.ReadFile("data/advices.json")
+	if err != nil {
+		log.Fatalf("⚠️ ReadFile error: %v", err)
 	}
+	log.Printf("🔍 ReadFile succeeded, %d bytes read", len(data))
+
+	// 2) Eğer dosya boşsa boylece görebiliriz
+	if len(data) == 0 {
+		log.Fatal("⚠️ advices.json içeriği boş")
+	}
+
+	// 3) JSON’u parse et
+	if err := json.Unmarshal(data, &advices); err != nil {
+		log.Fatalf("⚠️ JSON unmarshal error: %v", err)
+	}
+	log.Printf("✅ Loaded %d advice entries", len(advices))
 }
 
 func main() {
