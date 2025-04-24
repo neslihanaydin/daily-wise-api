@@ -1,0 +1,1462 @@
+[
+  {
+    "id": 1,
+    "message": "You are smart and talented."
+  },
+  {
+    "id": 2,
+    "message": "The world needs more people like you."
+  },
+  {
+    "id": 3,
+    "message": "Be kind. Always."
+  },
+  {
+    "id": 4,
+    "message": "Shine bright like a star."
+  },
+  {
+    "id": 5,
+    "message": "Without rain, there wouldn’t be any rainbows."
+  },
+  {
+    "id": 6,
+    "message": "You are making a difference."
+  },
+  {
+    "id": 7,
+    "message": "You are one of a kind."
+  },
+  {
+    "id": 8,
+    "message": "Your kindness and generosity inspire the world."
+  },
+  {
+    "id": 9,
+    "message": "You are strong and courageous."
+  },
+  {
+    "id": 10,
+    "message": "Don’t worry about things you cannot control."
+  },
+  {
+    "id": 11,
+    "message": "You are stronger than you think."
+  },
+  {
+    "id": 12,
+    "message": "You don’t need superpowers to be a superhero."
+  },
+  {
+    "id": 13,
+    "message": "Be a unicorn in a field of horses."
+  },
+  {
+    "id": 14,
+    "message": "You were made to do great things."
+  },
+  {
+    "id": 15,
+    "message": "Keep your face to the sunshine and you cannot see the shadows."
+  },
+  {
+    "id": 16,
+    "message": "Inspire others by doing what inspires you."
+  },
+  {
+    "id": 17,
+    "message": "Never be afraid to shine bright."
+  },
+  {
+    "id": 18,
+    "message": "You can do hard things."
+  },
+  {
+    "id": 19,
+    "message": "What makes you different, makes you beautiful."
+  },
+  {
+    "id": 20,
+    "message": "You are beautiful just the way you are."
+  },
+  {
+    "id": 21,
+    "message": "Difficult roads often lead to beautiful destinations."
+  },
+  {
+    "id": 22,
+    "message": "The way you speak to yourself matters."
+  },
+  {
+    "id": 23,
+    "message": "We rise by lifting each other."
+  },
+  {
+    "id": 24,
+    "message": "In a world full of bagels, you’re a donut."
+  },
+  {
+    "id": 25,
+    "message": "Your potential is endless."
+  },
+  {
+    "id": 26,
+    "message": "The only time you fail is when you fall down and stay down."
+  },
+  {
+    "id": 27,
+    "message": "Breathe life into your kindness with every heartbeat."
+  },
+  {
+    "id": 28,
+    "message": "Every step you take honors your passion."
+  },
+  {
+    "id": 29,
+    "message": "Nurture your wisdom with patience and love."
+  },
+  {
+    "id": 30,
+    "message": "Speak kindly to your wisdom and watch it flourish."
+  },
+  {
+    "id": 31,
+    "message": "Let your wisdom roar and fill your heart with courage."
+  },
+  {
+    "id": 32,
+    "message": "You have the power to uplift your courage into reality."
+  },
+  {
+    "id": 33,
+    "message": "You have the power to celebrate your passion into reality."
+  },
+  {
+    "id": 34,
+    "message": "Every step you take honors your dreams."
+  },
+  {
+    "id": 35,
+    "message": "Never underestimate the beauty of your passion."
+  },
+  {
+    "id": 36,
+    "message": "You have the power to nourish your ambition into reality."
+  },
+  {
+    "id": 37,
+    "message": "Embrace your spirit and let it light your way."
+  },
+  {
+    "id": 38,
+    "message": "Speak kindly to your strength and watch it flourish."
+  },
+  {
+    "id": 39,
+    "message": "Unleash your strength and claim your victories."
+  },
+  {
+    "id": 40,
+    "message": "You have the power to nourish your spirit into reality."
+  },
+  {
+    "id": 41,
+    "message": "You have the power to uplift your ambition into reality."
+  },
+  {
+    "id": 42,
+    "message": "Speak kindly to your resilience and watch it flourish."
+  },
+  {
+    "id": 43,
+    "message": "Embrace your hope and let it light your way."
+  },
+  {
+    "id": 44,
+    "message": "Fuel your dreams with passion and fearless action."
+  },
+  {
+    "id": 45,
+    "message": "Your dreams deserves your unwavering belief."
+  },
+  {
+    "id": 46,
+    "message": "Live boldly with your ambition as your companion."
+  },
+  {
+    "id": 47,
+    "message": "Cultivate your courage and see your dreams take flight."
+  },
+  {
+    "id": 48,
+    "message": "Celebrate every moment of your spirit."
+  },
+  {
+    "id": 49,
+    "message": "Let your strength roar and fill your heart with courage."
+  },
+  {
+    "id": 50,
+    "message": "You have the power to nourish your strength into reality."
+  },
+  {
+    "id": 51,
+    "message": "You have the power to uplift your resilience into reality."
+  },
+  {
+    "id": 52,
+    "message": "Celebrate every moment of your kindness."
+  },
+  {
+    "id": 53,
+    "message": "Honor your dreams by taking bold steps forward."
+  },
+  {
+    "id": 54,
+    "message": "Speak kindly to your passion and watch it flourish."
+  },
+  {
+    "id": 55,
+    "message": "Trust in your strength to carry you through any storm."
+  },
+  {
+    "id": 56,
+    "message": "Breathe life into your courage with every heartbeat."
+  },
+  {
+    "id": 57,
+    "message": "Feed your kindness with determination and grace."
+  },
+  {
+    "id": 58,
+    "message": "You have the power to honor your strength into reality."
+  },
+  {
+    "id": 59,
+    "message": "Your hope is unstoppable; trust its power."
+  },
+  {
+    "id": 60,
+    "message": "Awaken your dreams and let yourself soar."
+  },
+  {
+    "id": 61,
+    "message": "Embrace your ambition and let it light your way."
+  },
+  {
+    "id": 62,
+    "message": "Your passion is a beacon; let it shine brightly."
+  },
+  {
+    "id": 63,
+    "message": "You have the power to transform your wisdom into reality."
+  },
+  {
+    "id": 64,
+    "message": "Speak your wisdom into existence with conviction."
+  },
+  {
+    "id": 65,
+    "message": "You have the power to honor your resilience into reality."
+  },
+  {
+    "id": 66,
+    "message": "You have the power to unleash your spirit into reality."
+  },
+  {
+    "id": 67,
+    "message": "Be fearless in the pursuit of your ambition."
+  },
+  {
+    "id": 68,
+    "message": "Unleash your ambition and claim your victories."
+  },
+  {
+    "id": 69,
+    "message": "Let your wisdom echo through every challenge you face."
+  },
+  {
+    "id": 70,
+    "message": "Your ambition is the spark that ignites your destiny."
+  },
+  {
+    "id": 71,
+    "message": "You have the power to honor your kindness into reality."
+  },
+  {
+    "id": 72,
+    "message": "Nurture your kindness with patience and love."
+  },
+  {
+    "id": 73,
+    "message": "Guard your dreams fiercely and protect its flame."
+  },
+  {
+    "id": 74,
+    "message": "Celebrate every moment of your passion."
+  },
+  {
+    "id": 75,
+    "message": "Speak your resilience into existence with conviction."
+  },
+  {
+    "id": 76,
+    "message": "Hold your courage close and cherish its truth."
+  },
+  {
+    "id": 77,
+    "message": "Let your resilience roar and fill your heart with courage."
+  },
+  {
+    "id": 78,
+    "message": "Your courage is the spark that ignites your destiny."
+  },
+  {
+    "id": 79,
+    "message": "Every step you take honors your resilience."
+  },
+  {
+    "id": 80,
+    "message": "Live boldly with your wisdom as your companion."
+  },
+  {
+    "id": 81,
+    "message": "You have the power to ignite your strength into reality."
+  },
+  {
+    "id": 82,
+    "message": "You have the power to honor your passion into reality."
+  },
+  {
+    "id": 83,
+    "message": "Awaken your kindness and let yourself soar."
+  },
+  {
+    "id": 84,
+    "message": "You have the power to manifest your passion into reality."
+  },
+  {
+    "id": 85,
+    "message": "Fuel your courage with passion and fearless action."
+  },
+  {
+    "id": 86,
+    "message": "You have the power to build your dreams into reality."
+  },
+  {
+    "id": 87,
+    "message": "Stand tall in your resilience and face the world with confidence."
+  },
+  {
+    "id": 88,
+    "message": "You have the power to unleash your wisdom into reality."
+  },
+  {
+    "id": 89,
+    "message": "You have the power to celebrate your spirit into reality."
+  },
+  {
+    "id": 90,
+    "message": "Awaken your passion and let yourself soar."
+  },
+  {
+    "id": 91,
+    "message": "Honor your kindness by taking bold steps forward."
+  },
+  {
+    "id": 92,
+    "message": "Let your dreams guide you toward greatness."
+  },
+  {
+    "id": 93,
+    "message": "Nurture your passion with patience and love."
+  },
+  {
+    "id": 94,
+    "message": "Guard your spirit fiercely and protect its flame."
+  },
+  {
+    "id": 95,
+    "message": "Be fearless in the pursuit of your strength."
+  },
+  {
+    "id": 96,
+    "message": "Every step you take honors your spirit."
+  },
+  {
+    "id": 97,
+    "message": "Stand tall in your ambition and face the world with confidence."
+  },
+  {
+    "id": 98,
+    "message": "Celebrate every moment of your ambition."
+  },
+  {
+    "id": 99,
+    "message": "Honor your ambition by taking bold steps forward."
+  },
+  {
+    "id": 100,
+    "message": "Cultivate your wisdom and see your dreams take flight."
+  },
+  {
+    "id": 101,
+    "message": "Feed your hope with determination and grace."
+  },
+  {
+    "id": 102,
+    "message": "Unleash your wisdom and claim your victories."
+  },
+  {
+    "id": 103,
+    "message": "You have the power to nourish your passion into reality."
+  },
+  {
+    "id": 104,
+    "message": "You have the power to uplift your passion into reality."
+  },
+  {
+    "id": 105,
+    "message": "Fuel your passion with passion and fearless action."
+  },
+  {
+    "id": 106,
+    "message": "You have the power to build your strength into reality."
+  },
+  {
+    "id": 107,
+    "message": "Feed your ambition with determination and grace."
+  },
+  {
+    "id": 108,
+    "message": "Breathe life into your ambition with every heartbeat."
+  },
+  {
+    "id": 109,
+    "message": "You have the power to transform your resilience into reality."
+  },
+  {
+    "id": 110,
+    "message": "Your spirit deserves your unwavering belief."
+  },
+  {
+    "id": 111,
+    "message": "Let your spirit roar and fill your heart with courage."
+  },
+  {
+    "id": 112,
+    "message": "Be fearless in the pursuit of your kindness."
+  },
+  {
+    "id": 113,
+    "message": "Awaken your strength and let yourself soar."
+  },
+  {
+    "id": 114,
+    "message": "Be fearless in the pursuit of your resilience."
+  },
+  {
+    "id": 115,
+    "message": "You have the power to transform your passion into reality."
+  },
+  {
+    "id": 116,
+    "message": "Your strength is the spark that ignites your destiny."
+  },
+  {
+    "id": 117,
+    "message": "You have the power to celebrate your wisdom into reality."
+  },
+  {
+    "id": 118,
+    "message": "Your dreams is unstoppable; trust its power."
+  },
+  {
+    "id": 119,
+    "message": "Let your spirit echo through every challenge you face."
+  },
+  {
+    "id": 120,
+    "message": "Your hope is the spark that ignites your destiny."
+  },
+  {
+    "id": 121,
+    "message": "You have the power to uplift your strength into reality."
+  },
+  {
+    "id": 122,
+    "message": "Your strength is a beacon; let it shine brightly."
+  },
+  {
+    "id": 123,
+    "message": "Hold your kindness close and cherish its truth."
+  },
+  {
+    "id": 124,
+    "message": "Be fearless in the pursuit of your spirit."
+  },
+  {
+    "id": 125,
+    "message": "Honor your wisdom by taking bold steps forward."
+  },
+  {
+    "id": 126,
+    "message": "Honor your strength by taking bold steps forward."
+  },
+  {
+    "id": 127,
+    "message": "You have the power to manifest your ambition into reality."
+  },
+  {
+    "id": 128,
+    "message": "Feed your resilience with determination and grace."
+  },
+  {
+    "id": 129,
+    "message": "You have the power to uplift your dreams into reality."
+  },
+  {
+    "id": 130,
+    "message": "Never underestimate the beauty of your dreams."
+  },
+  {
+    "id": 131,
+    "message": "Awaken your courage and let yourself soar."
+  },
+  {
+    "id": 132,
+    "message": "Let your wisdom guide you toward greatness."
+  },
+  {
+    "id": 133,
+    "message": "Embrace your passion and let it light your way."
+  },
+  {
+    "id": 134,
+    "message": "You have the power to transform your kindness into reality."
+  },
+  {
+    "id": 135,
+    "message": "Unleash your spirit and claim your victories."
+  },
+  {
+    "id": 136,
+    "message": "Trust in your dreams to carry you through any storm."
+  },
+  {
+    "id": 137,
+    "message": "Let nothing dim the brilliance of your spirit."
+  },
+  {
+    "id": 138,
+    "message": "Hold your spirit close and cherish its truth."
+  },
+  {
+    "id": 139,
+    "message": "Breathe life into your resilience with every heartbeat."
+  },
+  {
+    "id": 140,
+    "message": "Hold your dreams close and cherish its truth."
+  },
+  {
+    "id": 141,
+    "message": "Your strength is unstoppable; trust its power."
+  },
+  {
+    "id": 142,
+    "message": "You have the power to shape your strength into reality."
+  },
+  {
+    "id": 143,
+    "message": "Trust in your passion to carry you through any storm."
+  },
+  {
+    "id": 144,
+    "message": "Nurture your dreams with patience and love."
+  },
+  {
+    "id": 145,
+    "message": "Let nothing dim the brilliance of your strength."
+  },
+  {
+    "id": 146,
+    "message": "You have the power to manifest your kindness into reality."
+  },
+  {
+    "id": 147,
+    "message": "Your ambition is unstoppable; trust its power."
+  },
+  {
+    "id": 148,
+    "message": "You have the power to ignite your kindness into reality."
+  },
+  {
+    "id": 149,
+    "message": "You have the power to shape your resilience into reality."
+  },
+  {
+    "id": 150,
+    "message": "Speak kindly to your hope and watch it flourish."
+  },
+  {
+    "id": 151,
+    "message": "You have the power to celebrate your kindness into reality."
+  },
+  {
+    "id": 152,
+    "message": "Trust in your wisdom to carry you through any storm."
+  },
+  {
+    "id": 153,
+    "message": "You have the power to celebrate your resilience into reality."
+  },
+  {
+    "id": 154,
+    "message": "Trust in your ambition to carry you through any storm."
+  },
+  {
+    "id": 155,
+    "message": "Feed your courage with determination and grace."
+  },
+  {
+    "id": 156,
+    "message": "Let nothing dim the brilliance of your resilience."
+  },
+  {
+    "id": 157,
+    "message": "Your kindness is the spark that ignites your destiny."
+  },
+  {
+    "id": 158,
+    "message": "Breathe life into your strength with every heartbeat."
+  },
+  {
+    "id": 159,
+    "message": "Let your dreams echo through every challenge you face."
+  },
+  {
+    "id": 160,
+    "message": "Be fearless in the pursuit of your wisdom."
+  },
+  {
+    "id": 161,
+    "message": "Your kindness is unstoppable; trust its power."
+  },
+  {
+    "id": 162,
+    "message": "Let your passion echo through every challenge you face."
+  },
+  {
+    "id": 163,
+    "message": "Let your strength echo through every challenge you face."
+  },
+  {
+    "id": 164,
+    "message": "You have the power to honor your courage into reality."
+  },
+  {
+    "id": 165,
+    "message": "Feed your wisdom with determination and grace."
+  },
+  {
+    "id": 166,
+    "message": "You have the power to shape your ambition into reality."
+  },
+  {
+    "id": 167,
+    "message": "Every step you take honors your hope."
+  },
+  {
+    "id": 168,
+    "message": "Breathe life into your wisdom with every heartbeat."
+  },
+  {
+    "id": 169,
+    "message": "Your wisdom is the spark that ignites your destiny."
+  },
+  {
+    "id": 170,
+    "message": "Stand tall in your dreams and face the world with confidence."
+  },
+  {
+    "id": 171,
+    "message": "Celebrate every moment of your dreams."
+  },
+  {
+    "id": 172,
+    "message": "You have the power to ignite your courage into reality."
+  },
+  {
+    "id": 173,
+    "message": "You have the power to manifest your resilience into reality."
+  },
+  {
+    "id": 174,
+    "message": "Nurture your courage with patience and love."
+  },
+  {
+    "id": 175,
+    "message": "Guard your strength fiercely and protect its flame."
+  },
+  {
+    "id": 176,
+    "message": "Your dreams is a beacon; let it shine brightly."
+  },
+  {
+    "id": 177,
+    "message": "Let your courage roar and fill your heart with courage."
+  },
+  {
+    "id": 178,
+    "message": "Guard your kindness fiercely and protect its flame."
+  },
+  {
+    "id": 179,
+    "message": "Fuel your hope with passion and fearless action."
+  },
+  {
+    "id": 180,
+    "message": "Speak kindly to your kindness and watch it flourish."
+  },
+  {
+    "id": 181,
+    "message": "Fuel your kindness with passion and fearless action."
+  },
+  {
+    "id": 182,
+    "message": "You have the power to nourish your kindness into reality."
+  },
+  {
+    "id": 183,
+    "message": "Celebrate every moment of your hope."
+  },
+  {
+    "id": 184,
+    "message": "Let your courage echo through every challenge you face."
+  },
+  {
+    "id": 185,
+    "message": "Live boldly with your strength as your companion."
+  },
+  {
+    "id": 186,
+    "message": "Let nothing dim the brilliance of your kindness."
+  },
+  {
+    "id": 187,
+    "message": "Your courage is unstoppable; trust its power."
+  },
+  {
+    "id": 188,
+    "message": "Let your hope roar and fill your heart with courage."
+  },
+  {
+    "id": 189,
+    "message": "Fuel your ambition with passion and fearless action."
+  },
+  {
+    "id": 190,
+    "message": "You have the power to shape your courage into reality."
+  },
+  {
+    "id": 191,
+    "message": "Let your spirit guide you toward greatness."
+  },
+  {
+    "id": 192,
+    "message": "Let your ambition guide you toward greatness."
+  },
+  {
+    "id": 193,
+    "message": "Never underestimate the beauty of your wisdom."
+  },
+  {
+    "id": 194,
+    "message": "You have the power to celebrate your ambition into reality."
+  },
+  {
+    "id": 195,
+    "message": "Honor your passion by taking bold steps forward."
+  },
+  {
+    "id": 196,
+    "message": "Stand tall in your passion and face the world with confidence."
+  },
+  {
+    "id": 197,
+    "message": "Your ambition is a beacon; let it shine brightly."
+  },
+  {
+    "id": 198,
+    "message": "Your spirit is a beacon; let it shine brightly."
+  },
+  {
+    "id": 199,
+    "message": "Be fearless in the pursuit of your hope."
+  },
+  {
+    "id": 200,
+    "message": "Let nothing dim the brilliance of your courage."
+  },
+  {
+    "id": 201,
+    "message": "Cultivate your spirit and see your dreams take flight."
+  },
+  {
+    "id": 202,
+    "message": "Awaken your wisdom and let yourself soar."
+  },
+  {
+    "id": 203,
+    "message": "Breathe life into your spirit with every heartbeat."
+  },
+  {
+    "id": 204,
+    "message": "You have the power to ignite your spirit into reality."
+  },
+  {
+    "id": 205,
+    "message": "Let your dreams roar and fill your heart with courage."
+  },
+  {
+    "id": 206,
+    "message": "Hold your strength close and cherish its truth."
+  },
+  {
+    "id": 207,
+    "message": "You have the power to nourish your dreams into reality."
+  },
+  {
+    "id": 208,
+    "message": "Let nothing dim the brilliance of your wisdom."
+  },
+  {
+    "id": 209,
+    "message": "Speak your courage into existence with conviction."
+  },
+  {
+    "id": 210,
+    "message": "You have the power to shape your passion into reality."
+  },
+  {
+    "id": 211,
+    "message": "Embrace your kindness and let it light your way."
+  },
+  {
+    "id": 212,
+    "message": "You have the power to build your courage into reality."
+  },
+  {
+    "id": 213,
+    "message": "Breathe life into your dreams with every heartbeat."
+  },
+  {
+    "id": 214,
+    "message": "Never underestimate the beauty of your kindness."
+  },
+  {
+    "id": 215,
+    "message": "You have the power to uplift your hope into reality."
+  },
+  {
+    "id": 216,
+    "message": "You have the power to build your wisdom into reality."
+  },
+  {
+    "id": 217,
+    "message": "Be fearless in the pursuit of your courage."
+  },
+  {
+    "id": 218,
+    "message": "Your strength deserves your unwavering belief."
+  },
+  {
+    "id": 219,
+    "message": "Honor your spirit by taking bold steps forward."
+  },
+  {
+    "id": 220,
+    "message": "You have the power to honor your dreams into reality."
+  },
+  {
+    "id": 221,
+    "message": "Cultivate your kindness and see your dreams take flight."
+  },
+  {
+    "id": 222,
+    "message": "Feed your passion with determination and grace."
+  },
+  {
+    "id": 223,
+    "message": "Awaken your resilience and let yourself soar."
+  },
+  {
+    "id": 224,
+    "message": "You have the power to ignite your passion into reality."
+  },
+  {
+    "id": 225,
+    "message": "Trust in your spirit to carry you through any storm."
+  },
+  {
+    "id": 226,
+    "message": "You have the power to manifest your wisdom into reality."
+  },
+  {
+    "id": 227,
+    "message": "You have the power to transform your spirit into reality."
+  },
+  {
+    "id": 228,
+    "message": "Feed your spirit with determination and grace."
+  },
+  {
+    "id": 229,
+    "message": "Cultivate your hope and see your dreams take flight."
+  },
+  {
+    "id": 230,
+    "message": "Guard your passion fiercely and protect its flame."
+  },
+  {
+    "id": 231,
+    "message": "Your courage is a beacon; let it shine brightly."
+  },
+  {
+    "id": 232,
+    "message": "Never underestimate the beauty of your strength."
+  },
+  {
+    "id": 233,
+    "message": "You have the power to manifest your strength into reality."
+  },
+  {
+    "id": 234,
+    "message": "Let nothing dim the brilliance of your dreams."
+  },
+  {
+    "id": 235,
+    "message": "You have the power to shape your wisdom into reality."
+  },
+  {
+    "id": 236,
+    "message": "Let your resilience echo through every challenge you face."
+  },
+  {
+    "id": 237,
+    "message": "You have the power to honor your spirit into reality."
+  },
+  {
+    "id": 238,
+    "message": "Your wisdom is unstoppable; trust its power."
+  },
+  {
+    "id": 239,
+    "message": "Celebrate every moment of your strength."
+  },
+  {
+    "id": 240,
+    "message": "Your courage deserves your unwavering belief."
+  },
+  {
+    "id": 241,
+    "message": "Guard your hope fiercely and protect its flame."
+  },
+  {
+    "id": 242,
+    "message": "Your ambition deserves your unwavering belief."
+  },
+  {
+    "id": 243,
+    "message": "You have the power to uplift your spirit into reality."
+  },
+  {
+    "id": 244,
+    "message": "Speak your kindness into existence with conviction."
+  },
+  {
+    "id": 245,
+    "message": "Fuel your spirit with passion and fearless action."
+  },
+  {
+    "id": 246,
+    "message": "Stand tall in your kindness and face the world with confidence."
+  },
+  {
+    "id": 247,
+    "message": "Stand tall in your wisdom and face the world with confidence."
+  },
+  {
+    "id": 248,
+    "message": "Hold your resilience close and cherish its truth."
+  },
+  {
+    "id": 249,
+    "message": "Honor your courage by taking bold steps forward."
+  },
+  {
+    "id": 250,
+    "message": "Live boldly with your spirit as your companion."
+  },
+  {
+    "id": 251,
+    "message": "Trust in your hope to carry you through any storm."
+  },
+  {
+    "id": 252,
+    "message": "Honor your hope by taking bold steps forward."
+  },
+  {
+    "id": 253,
+    "message": "Trust in your courage to carry you through any storm."
+  },
+  {
+    "id": 254,
+    "message": "Never underestimate the beauty of your hope."
+  },
+  {
+    "id": 255,
+    "message": "Nurture your spirit with patience and love."
+  },
+  {
+    "id": 256,
+    "message": "Speak kindly to your dreams and watch it flourish."
+  },
+  {
+    "id": 257,
+    "message": "Every step you take honors your ambition."
+  },
+  {
+    "id": 258,
+    "message": "Live boldly with your resilience as your companion."
+  },
+  {
+    "id": 259,
+    "message": "You have the power to shape your spirit into reality."
+  },
+  {
+    "id": 260,
+    "message": "You have the power to unleash your strength into reality."
+  },
+  {
+    "id": 261,
+    "message": "Guard your ambition fiercely and protect its flame."
+  },
+  {
+    "id": 262,
+    "message": "Unleash your dreams and claim your victories."
+  },
+  {
+    "id": 263,
+    "message": "You have the power to honor your wisdom into reality."
+  },
+  {
+    "id": 264,
+    "message": "Hold your passion close and cherish its truth."
+  },
+  {
+    "id": 265,
+    "message": "Feed your dreams with determination and grace."
+  },
+  {
+    "id": 266,
+    "message": "Live boldly with your hope as your companion."
+  },
+  {
+    "id": 267,
+    "message": "Your spirit is the spark that ignites your destiny."
+  },
+  {
+    "id": 268,
+    "message": "You have the power to transform your dreams into reality."
+  },
+  {
+    "id": 269,
+    "message": "Hold your hope close and cherish its truth."
+  },
+  {
+    "id": 270,
+    "message": "Never underestimate the beauty of your ambition."
+  },
+  {
+    "id": 271,
+    "message": "You have the power to shape your dreams into reality."
+  },
+  {
+    "id": 272,
+    "message": "You have the power to transform your strength into reality."
+  },
+  {
+    "id": 273,
+    "message": "Every step you take honors your strength."
+  },
+  {
+    "id": 274,
+    "message": "Hold your wisdom close and cherish its truth."
+  },
+  {
+    "id": 275,
+    "message": "You have the power to transform your ambition into reality."
+  },
+  {
+    "id": 276,
+    "message": "You have the power to manifest your dreams into reality."
+  },
+  {
+    "id": 277,
+    "message": "Nurture your ambition with patience and love."
+  },
+  {
+    "id": 278,
+    "message": "You have the power to celebrate your courage into reality."
+  },
+  {
+    "id": 279,
+    "message": "Speak your passion into existence with conviction."
+  },
+  {
+    "id": 280,
+    "message": "Speak your dreams into existence with conviction."
+  },
+  {
+    "id": 281,
+    "message": "Cultivate your ambition and see your dreams take flight."
+  },
+  {
+    "id": 282,
+    "message": "Your passion is unstoppable; trust its power."
+  },
+  {
+    "id": 283,
+    "message": "Let your passion guide you toward greatness."
+  },
+  {
+    "id": 284,
+    "message": "Let your ambition roar and fill your heart with courage."
+  },
+  {
+    "id": 285,
+    "message": "You have the power to celebrate your dreams into reality."
+  },
+  {
+    "id": 286,
+    "message": "Let your hope guide you toward greatness."
+  },
+  {
+    "id": 287,
+    "message": "Let your kindness roar and fill your heart with courage."
+  },
+  {
+    "id": 288,
+    "message": "Celebrate every moment of your wisdom."
+  },
+  {
+    "id": 289,
+    "message": "Guard your resilience fiercely and protect its flame."
+  },
+  {
+    "id": 290,
+    "message": "You have the power to uplift your wisdom into reality."
+  },
+  {
+    "id": 291,
+    "message": "Let your resilience guide you toward greatness."
+  },
+  {
+    "id": 292,
+    "message": "Your resilience is unstoppable; trust its power."
+  },
+  {
+    "id": 293,
+    "message": "Celebrate every moment of your courage."
+  },
+  {
+    "id": 294,
+    "message": "Unleash your passion and claim your victories."
+  },
+  {
+    "id": 295,
+    "message": "Let your kindness guide you toward greatness."
+  },
+  {
+    "id": 296,
+    "message": "Awaken your ambition and let yourself soar."
+  },
+  {
+    "id": 297,
+    "message": "Live boldly with your dreams as your companion."
+  },
+  {
+    "id": 298,
+    "message": "Embrace your wisdom and let it light your way."
+  },
+  {
+    "id": 299,
+    "message": "Your kindness deserves your unwavering belief."
+  },
+  {
+    "id": 300,
+    "message": "Live boldly with your kindness as your companion."
+  },
+  {
+    "id": 301,
+    "message": "Awaken your spirit and let yourself soar."
+  },
+  {
+    "id": 302,
+    "message": "Fuel your strength with passion and fearless action."
+  },
+  {
+    "id": 303,
+    "message": "You have the power to unleash your resilience into reality."
+  },
+  {
+    "id": 304,
+    "message": "Let nothing dim the brilliance of your hope."
+  },
+  {
+    "id": 305,
+    "message": "Speak your ambition into existence with conviction."
+  },
+  {
+    "id": 306,
+    "message": "Every step you take honors your kindness."
+  },
+  {
+    "id": 307,
+    "message": "Awaken your hope and let yourself soar."
+  },
+  {
+    "id": 308,
+    "message": "Embrace your strength and let it light your way."
+  },
+  {
+    "id": 309,
+    "message": "Nurture your strength with patience and love."
+  },
+  {
+    "id": 310,
+    "message": "Nurture your resilience with patience and love."
+  },
+  {
+    "id": 311,
+    "message": "You have the power to nourish your courage into reality."
+  },
+  {
+    "id": 312,
+    "message": "Breathe life into your hope with every heartbeat."
+  },
+  {
+    "id": 313,
+    "message": "You have the power to unleash your dreams into reality."
+  },
+  {
+    "id": 314,
+    "message": "Your kindness is a beacon; let it shine brightly."
+  },
+  {
+    "id": 315,
+    "message": "Let your passion roar and fill your heart with courage."
+  },
+  {
+    "id": 316,
+    "message": "Trust in your resilience to carry you through any storm."
+  },
+  {
+    "id": 317,
+    "message": "Live boldly with your courage as your companion."
+  },
+  {
+    "id": 318,
+    "message": "You have the power to honor your ambition into reality."
+  },
+  {
+    "id": 319,
+    "message": "Nurture your hope with patience and love."
+  },
+  {
+    "id": 320,
+    "message": "Let your courage guide you toward greatness."
+  },
+  {
+    "id": 321,
+    "message": "Cultivate your strength and see your dreams take flight."
+  },
+  {
+    "id": 322,
+    "message": "Stand tall in your spirit and face the world with confidence."
+  },
+  {
+    "id": 323,
+    "message": "Stand tall in your strength and face the world with confidence."
+  },
+  {
+    "id": 324,
+    "message": "Your dreams is the spark that ignites your destiny."
+  },
+  {
+    "id": 325,
+    "message": "Speak kindly to your ambition and watch it flourish."
+  },
+  {
+    "id": 326,
+    "message": "Let nothing dim the brilliance of your passion."
+  },
+  {
+    "id": 327,
+    "message": "Your resilience is the spark that ignites your destiny."
+  },
+  {
+    "id": 328,
+    "message": "Guard your courage fiercely and protect its flame."
+  },
+  {
+    "id": 329,
+    "message": "Speak kindly to your spirit and watch it flourish."
+  },
+  {
+    "id": 330,
+    "message": "Every step you take honors your courage."
+  },
+  {
+    "id": 331,
+    "message": "You have the power to build your spirit into reality."
+  },
+  {
+    "id": 332,
+    "message": "Let your kindness echo through every challenge you face."
+  },
+  {
+    "id": 333,
+    "message": "You have the power to ignite your dreams into reality."
+  },
+  {
+    "id": 334,
+    "message": "You have the power to manifest your courage into reality."
+  },
+  {
+    "id": 335,
+    "message": "You have the power to ignite your ambition into reality."
+  },
+  {
+    "id": 336,
+    "message": "Unleash your kindness and claim your victories."
+  },
+  {
+    "id": 337,
+    "message": "Celebrate every moment of your resilience."
+  },
+  {
+    "id": 338,
+    "message": "Cultivate your resilience and see your dreams take flight."
+  },
+  {
+    "id": 339,
+    "message": "Embrace your courage and let it light your way."
+  },
+  {
+    "id": 340,
+    "message": "Stand tall in your hope and face the world with confidence."
+  },
+  {
+    "id": 341,
+    "message": "Feed your strength with determination and grace."
+  },
+  {
+    "id": 342,
+    "message": "Live boldly with your passion as your companion."
+  },
+  {
+    "id": 343,
+    "message": "You have the power to unleash your kindness into reality."
+  },
+  {
+    "id": 344,
+    "message": "You have the power to ignite your resilience into reality."
+  },
+  {
+    "id": 345,
+    "message": "Your passion deserves your unwavering belief."
+  },
+  {
+    "id": 346,
+    "message": "Your spirit is unstoppable; trust its power."
+  },
+  {
+    "id": 347,
+    "message": "You have the power to celebrate your strength into reality."
+  },
+  {
+    "id": 348,
+    "message": "Your hope deserves your unwavering belief."
+  },
+  {
+    "id": 349,
+    "message": "Never underestimate the beauty of your resilience."
+  },
+  {
+    "id": 350,
+    "message": "Speak your hope into existence with conviction."
+  },
+  {
+    "id": 351,
+    "message": "Let your hope echo through every challenge you face."
+  },
+  {
+    "id": 352,
+    "message": "You have the power to celebrate your hope into reality."
+  },
+  {
+    "id": 353,
+    "message": "Unleash your courage and claim your victories."
+  },
+  {
+    "id": 354,
+    "message": "You have the power to nourish your wisdom into reality."
+  },
+  {
+    "id": 355,
+    "message": "Your resilience is a beacon; let it shine brightly."
+  },
+  {
+    "id": 356,
+    "message": "Embrace your dreams and let it light your way."
+  },
+  {
+    "id": 357,
+    "message": "Your hope is a beacon; let it shine brightly."
+  },
+  {
+    "id": 358,
+    "message": "Speak your strength into existence with conviction."
+  },
+  {
+    "id": 359,
+    "message": "Your wisdom is a beacon; let it shine brightly."
+  },
+  {
+    "id": 360,
+    "message": "Be fearless in the pursuit of your passion."
+  },
+  {
+    "id": 361,
+    "message": "Never underestimate the beauty of your spirit."
+  },
+  {
+    "id": 362,
+    "message": "You have the power to unleash your ambition into reality."
+  },
+  {
+    "id": 363,
+    "message": "Cultivate your dreams and see your dreams take flight."
+  },
+  {
+    "id": 364,
+    "message": "Speak kindly to your courage and watch it flourish."
+  },
+  {
+    "id": 365,
+    "message": "Speak your spirit into existence with conviction."
+  }
+]
